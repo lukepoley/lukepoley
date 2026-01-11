@@ -1,4 +1,4 @@
-# ![Venom Header](https://capsule-render.vercel.app/render?type=venom&color=auto&height=150&section=header&text=I'm%20Luke%20Poley&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=150&section=header&text=I'm%20Luke%20Poley&fontSize=60)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
