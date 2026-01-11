@@ -15,13 +15,8 @@ that saves him five milliseconds on his Linux daily driver.
 
 ❯ ./hobbies --verbose
 - Philosophy (for the boredom)
-  - Check Out Richard Moran!
-- Climbing 14ers <img
-  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png"
-  alt="Cat with Tears of Joy"
-  width="25"
-  height="25"
-/>
+  - Check Out Richard Moran! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dotted%20Line%20Face.png" alt="Dotted Line Face" width="25" height="25" />
+- Climbing 14ers 
 - Golf (strictly for the aura) ⛳
 - Board game design 🎲
 - Sports (for the exercise) 🏃
