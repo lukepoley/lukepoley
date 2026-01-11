@@ -6,6 +6,21 @@ luke-poley
 ❯ groups luke-poley
 python-automation sql-engineering accounting-ops financial-auditors
 
+❯ cat about_luke.txt
+On the team, Luke maintains the website and optimizes databases to automate 
+repetitive tasks, build custom functions, and create user interfaces.
+
+On Friday nights, he’s usually scripting or discovering the newest CLI trick 
+that saves him five milliseconds on his Linux daily driver.
+
+❯ ./hobbies --verbose
+- Philosophy (for the boredom)
+  - Check Out Richard Moran!
+- Climbing 14ers 🏔️
+- Golf (strictly for the aura) ⛳
+- Board game design 🎲
+- Sports (for the exercise) 🏃
+
 ❯ ./intro.sh
 Hello World! I'm Luke, an automation specialist bridging the gap between 
 complex financial data and streamlined Python workflows.
@@ -16,10 +31,6 @@ complex financial data and streamlined Python workflows.
   </a>
 </p>
 
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
