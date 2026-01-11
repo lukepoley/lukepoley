@@ -12,7 +12,7 @@ complex financial data and streamlined Python workflows.
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=root%40luke-poley%3A~%24+echo+%22Hello+World!%22;Financial+Automation+Expert;Python+%2B+SQL+Specialist;Check+out+Richard+Moran's+Authority+and+Estrangement" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=root%40luke-poley%3A~%24+echo+%22Hello+World!%22;Financial+Automation+Expert;Python+%2B+SQL+Specialist;Check+out+Richard+Moran's+A+and+E" alt="Typing SVG" />
   </a>
 </p>
 
