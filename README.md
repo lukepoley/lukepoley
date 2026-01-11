@@ -14,9 +14,9 @@ On Friday nights, he’s usually scripting or discovering the newest CLI trick
 that saves him five milliseconds on his Linux daily driver.
 
 ❯ ./hobbies --verbose
-- Philosophy (for the boredom)
+- Philosophy (for the boredom) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Yawning%20Face.png" alt="Yawning Face" width="25" height="25" />
   - Check Out Richard Moran! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dotted%20Line%20Face.png" alt="Dotted Line Face" width="25" height="25" />
-- Climbing 14ers 
+- Climbing 14ers <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="25" height="25" />
 - Golf (strictly for the aura) ⛳
 - Board game design 🎲
 - Sports (for the exercise) 🏃
