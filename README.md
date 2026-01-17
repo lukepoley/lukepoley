@@ -1,17 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=150&section=header&text=I'm%20Luke%20Poley&fontSize=60&color=gradient)
 
-❯ whoami
-luke-poley
-
 ❯ groups luke-poley
 python-automation sql-engineering accounting-ops financial-auditors
 
-❯ cat about_luke.txt
-On the team, Luke maintains the website and optimizes databases to automate 
-repetitive tasks, build custom functions, and create user interfaces.
-
-On Friday nights, he’s usually scripting or discovering the newest CLI trick 
-that saves him five milliseconds on his Linux daily driver.
+❯ cat about.txt
+On the team, Luke maintains the website and optimizes databases to automate  repetitive tasks, build custom functions, and create user interfaces. On Friday nights, he’s usually scripting or discovering the newest CLI trick that saves him five milliseconds on his Linux daily driver.
 
 ❯ ./hobbies --verbose
 - Philosophy (for the boredom) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Yawning%20Face.png" alt="Yawning Face" width="25" height="25" />
